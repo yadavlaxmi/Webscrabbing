@@ -1,0 +1,33 @@
+{
+      "movie_name": "The LEGO Movie 2: The Second Part",
+      "Url": "https://www.rottentomatoes.com/m/the_lego_movie_2_the_second_part",
+      "Rating": "PG",
+      "Genre": [
+            "Comedy,",
+            "Kids",
+            "&",
+            "family,",
+            "Action,",
+            "Adventure,",
+            "Animation"
+      ],
+      "Language": [
+            "English"
+      ],
+      "director": [
+            "MikeMitchell"
+      ],
+      "Producer": [
+            "Dan",
+            "Lin,",
+            "Phil",
+            "Lord,",
+            "Chris",
+            "Miller,",
+            "Roy",
+            "Lee,",
+            "Jinko",
+            "Gotoh"
+      ],
+      "Runtime": 107
+}
